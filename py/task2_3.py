@@ -11,3 +11,4 @@ for i in range(3, k + 1):
     if i in results:
         results[i] = c
 print(" ".join(str(results[i]) for i in indices))
+
