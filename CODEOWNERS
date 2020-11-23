@@ -1,4 +1,7 @@
 # service-console team
-*                                                       @veronikakochugova
+*                                                       @veronikaKochugova
 
-CODEOWNERS                                              @veronikakochugova
+CODEOWNERS                                              @veronikaKochugova @romanKobzarev
+py/task1_1.py                                           @romanKobzarev
+py/task1_2.py                                           @veronikaKochugova
+py/task2_1.py                                           @veronikaKochugova @romanKobzarev
